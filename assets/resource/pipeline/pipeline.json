@@ -1,0 +1,428 @@
+{
+    "Entry": {
+        "next": "step1"
+    },
+    "step1": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step2"
+    },
+    "step2": {
+        "action": "Key",
+        "key": [
+            33,
+            37,
+            31,
+            32,
+            32,
+            31,
+            34,
+            35,
+            34,
+            36,
+            32,
+            34
+        ],
+        "next": "step3"
+    },
+    "step3": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step4"
+    },
+    "step4": {
+        "action": "Key",
+        "key": [
+            36,
+            38,
+            38,
+            39,
+            37,
+            32
+        ],
+        "next": "step5"
+    },
+    "step5": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step6"
+    },
+    "step6": {
+        "action": "Key",
+        "key": [
+            35,
+            38,
+            35,
+            30,
+            30,
+            30,
+            30,
+            35,
+            37,
+            30,
+            34,
+            37
+        ],
+        "next": "step7"
+    },
+    "step7": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step8"
+    },
+    "step8": {
+        "action": "Key",
+        "key": [
+            31,
+            37,
+            34,
+            38,
+            32,
+            35
+        ],
+        "next": "step9"
+    },
+    "step9": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step10"
+    },
+    "step10": {
+        "action": "Key",
+        "key": [
+            36,
+            30,
+            38,
+            32,
+            36,
+            31,
+            31,
+            39,
+            38,
+            30,
+            36,
+            37
+        ],
+        "next": "step11"
+    },
+    "step11": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step12"
+    },
+    "step12": {
+        "action": "Key",
+        "key": [
+            36,
+            39,
+            35,
+            39,
+            34,
+            37
+        ],
+        "next": "step13"
+    },
+    "step13": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step14"
+    },
+    "step14": {
+        "action": "Key",
+        "key": [
+            39,
+            35,
+            38,
+            35,
+            39,
+            35,
+            33,
+            33,
+            35,
+            37,
+            37,
+            30
+        ],
+        "next": "step15"
+    },
+    "step15": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step16"
+    },
+    "step16": {
+        "action": "Key",
+        "key": [
+            35,
+            35,
+            36,
+            38,
+            36,
+            35
+        ],
+        "next": "step17"
+    },
+    "step17": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step18"
+    },
+    "step18": {
+        "action": "Key",
+        "key": [
+            31,
+            34,
+            39,
+            37,
+            30,
+            34,
+            35,
+            30,
+            34,
+            37,
+            38,
+            38
+        ],
+        "next": "step19"
+    },
+    "step19": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step20"
+    },
+    "step20": {
+        "action": "Key",
+        "key": [
+            35,
+            34,
+            31,
+            31,
+            34,
+            31
+        ],
+        "next": "step21"
+    },
+    "step21": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step22"
+    },
+    "step22": {
+        "action": "Key",
+        "key": [
+            34,
+            37,
+            39,
+            38,
+            38,
+            33,
+            32,
+            34,
+            35,
+            34,
+            38,
+            37
+        ],
+        "next": "step23"
+    },
+    "step23": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step24"
+    },
+    "step24": {
+        "action": "Key",
+        "key": [
+            37,
+            35,
+            31,
+            37,
+            36,
+            36
+        ],
+        "next": "step25"
+    },
+    "step25": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step26"
+    },
+    "step26": {
+        "action": "Key",
+        "key": [
+            32,
+            35,
+            33,
+            33,
+            30,
+            33,
+            33,
+            33,
+            31,
+            30,
+            31,
+            37
+        ],
+        "next": "step27"
+    },
+    "step27": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step28"
+    },
+    "step28": {
+        "action": "Key",
+        "key": [
+            37,
+            35,
+            39,
+            32,
+            33,
+            36
+        ],
+        "next": "step29"
+    },
+    "step29": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step30"
+    },
+    "step30": {
+        "action": "Key",
+        "key": [
+            33,
+            37,
+            33,
+            36,
+            38,
+            30,
+            31,
+            38,
+            30,
+            35,
+            30,
+            35
+        ],
+        "next": "step31"
+    },
+    "step31": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step32"
+    },
+    "step32": {
+        "action": "Key",
+        "key": [
+            36,
+            32,
+            35,
+            34,
+            32,
+            34
+        ],
+        "next": "step33"
+    },
+    "step33": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step34"
+    },
+    "step34": {
+        "action": "Key",
+        "key": [
+            38,
+            39,
+            33,
+            31,
+            36,
+            32,
+            30,
+            39,
+            32,
+            36,
+            39,
+            32
+        ],
+        "next": "step35"
+    },
+    "step35": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step36"
+    },
+    "step36": {
+        "action": "Key",
+        "key": [
+            38,
+            37,
+            35,
+            34,
+            38,
+            35
+        ],
+        "next": "step37"
+    },
+    "step37": {
+        "recognition": "OCR",
+        "expected": "12位",
+        "action": "Click",
+        "next": "step38"
+    },
+    "step38": {
+        "action": "Key",
+        "key": [
+            31,
+            39,
+            37,
+            37,
+            37,
+            37,
+            35,
+            36,
+            36,
+            33,
+            32,
+            38
+        ],
+        "next": "step39"
+    },
+    "step39": {
+        "recognition": "OCR",
+        "expected": "6位",
+        "action": "Click",
+        "next": "step40"
+    },
+    "step40": {
+        "action": "Key",
+        "key": [
+            31,
+            38,
+            34,
+            33,
+            39,
+            38
+        ],
+        "next": "step41"
+    },
+    "step41": {
+        "action": "DoNothing"
+    }
+}
